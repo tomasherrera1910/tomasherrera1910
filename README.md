@@ -1,3 +1,9 @@
+<style>
+  .list {
+    display: flex;
+    gap: 0.5em;
+  }
+</style>
 <h1 align="center">Hola 👋!, Soy Tomás.</h1>
 <h3 align="center">Desarrollador Full Stack Jr.</h3>
 
@@ -9,7 +15,7 @@
 <h3 align="left">Tecnologías:</h3>
 <section>
   <h3 align="left">Desarrollo WEB:</h3>
-   <ul>
+   <ul class="list">
     <li>
        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     </li>
@@ -27,7 +33,7 @@
     </li>
    </ul> 
   <h3 align="left">Stack MERN:</h3>
-     <ul>
+     <ul class="list">
        <li>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
        </li>
@@ -42,7 +48,7 @@
        </li>
      </ul>
   <h3 align="left">Base De Datos y ORM:</h3>
-    <ul>
+    <ul class="list">
       <li>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
       </li>
@@ -57,7 +63,7 @@
       </li>
     </ul>
   <h3 align="left">Testing:</h3>
-    <ul>
+    <ul class="list">
       <li>
         <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
       </li>
