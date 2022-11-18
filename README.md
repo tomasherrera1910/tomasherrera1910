@@ -57,6 +57,20 @@
       </li>
     </ul>
   <h3 align="left">Testing:</h3>
+    <ul>
+      <li>
+        <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
+      </li>
+      <li>
+        <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+      </li>
+      <li>
+        <a href="https://testing-library.com/" target="_blank" rel="noreferrer"> <img src="https://testing-library.com/img/octopus-128x128.png" alt="testing library" width="40" height="40"/> </a>
+      </li>
+      <li>
+        <a href="https://vitest.dev" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40"/> </a>
+      </li>
+    </ul>
  </section>
 
 <h3 align="left">Portfolio:</h3>
