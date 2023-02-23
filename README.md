@@ -40,3 +40,4 @@
     </ul>
 <h3 align="left">Portfolio:</h3>
 <p align="left">Si te interesa saber más de mí, te invito a visitar <a href="https://tomas-herrera-portfolio.netlify.app/" target="_blank" rel="noreferrer">mi portfolio</a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasherrera1910&show_icons=true&theme=dark&title_color=ffffff&text_color=e8e8e8&locale=en" alt="tomasherrera1910" /></p>
