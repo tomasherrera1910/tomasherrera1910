@@ -1,12 +1,16 @@
 <h1 align="center">Hola 👋!, Soy Tomás.</h1>
 <h3 align="center">Desarrollador Full Stack Jr.</h3>
 
-<h3 align="left">Redes:</h3>
+---
+
+## Redes:
 <p align="left">
 <a href="https://www.linkedin.com/in/tomas-herrera-8a1988247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tomas-herrera-8a1988247/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tecnologías:</h3>
+--- 
+
+## Tecnologías:
 <ul>
   <li>
   <h3 align="left">Desarrollo WEB:</h3>
@@ -42,8 +46,13 @@
         <a href="https://vitest.dev" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40"/> </a>
       </li>
     </ul>
-<h3 align="left">Portfolio:</h3>
+    
+---
+    
+## Portfolio:
 <p align="left">Si te interesa saber más de mí, te invito a visitar <a href="https://tomas-herrera-portfolio.netlify.app/" target="_blank" rel="noreferrer">mi portfolio</a></p>
+
+---
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=tomasherrera1910&show_icons=true&count_private=true&hide_border=true" align="left" />  
