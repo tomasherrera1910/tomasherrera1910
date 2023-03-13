@@ -26,6 +26,6 @@
 ---
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=tomasherrera1910&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=tomasherrera1910&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=ffffff" align="left" />  
 
 <br/>  
