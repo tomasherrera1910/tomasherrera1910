@@ -21,7 +21,7 @@
 ---
     
 ## Portfolio:
-<p align="left">Si te interesa saber más de mí, te invito a visitar <a href="https://tomas-herrera-portfolio.netlify.app/" target="_blank" rel="noreferrer">mi portfolio</a></p>
+<p align="left">Si te interesa saber más de mí, te invito a visitar <a href="https://tomasherrera.vercel.app/" target="_blank" rel="noreferrer">mi portfolio</a></p>
 
 ---
 
